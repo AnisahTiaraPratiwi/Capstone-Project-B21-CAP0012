@@ -10,7 +10,7 @@ Rahmat Fajri - rfajri255@gmail.com <br />
 Riyana Fatimatus Zahrok - email <br />
 Zajuli Taupiq Bisri - email <br />
 
-In this project, we use weather data from Tanjung Priok Maritime Meteorological Station and river level on Yos Sudarso Pump 1.
+In this project, we use weather data from Tanjung Priok Maritime Meteorological Station and river level on Yos Sudarso Pump to build a **Flood Disaster Warning System**.
 
 Dataset resource:
 - https://dataonline.bmkg.go.id/data_iklim 
