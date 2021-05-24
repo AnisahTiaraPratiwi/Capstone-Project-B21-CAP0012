@@ -12,3 +12,6 @@ ipython_config.py
 
 # CSV data
 *.csv
+
+# Saved model
+saved_model
