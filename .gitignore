@@ -10,3 +10,8 @@ ipython_config.py
 .spyderproject
 .spyproject
 
+# CSV data
+*.csv
+
+# Saved model
+saved_model
