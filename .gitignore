@@ -11,4 +11,4 @@ ipython_config.py
 .spyproject
 
 # CSV data
-.csv
+*.csv
