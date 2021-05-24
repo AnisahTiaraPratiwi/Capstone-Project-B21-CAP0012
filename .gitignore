@@ -10,3 +10,5 @@ ipython_config.py
 .spyderproject
 .spyproject
 
+# CSV data
+.csv
