@@ -14,4 +14,9 @@ ipython_config.py
 *.csv
 
 # Saved model
+save_model
 saved_model
+*.h5
+
+# JSON file
+*.json
