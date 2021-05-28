@@ -3,12 +3,12 @@
 This is B21-CAP0012 (aka bCARE) Group Capstone Project for Bangk!t program led by Google, Tokopedia, Gojek, & Traveloka
 
 Our team members: <br />
-Anisah Tiara Pratiwi - email <br />
-Auldy Ansya Rullah - email <br />
-Dimas Bagus Saputro - email <br />
+Anisah Tiara Pratiwi - anisahtiarapratiwi@gmail.com <br />
+Auldy Ansya Rullah - auldyansyaa@gmail.com <br />
+Dimas Bagus Saputro - dimasb597@gmail.com <br />
 Rahmat Fajri - rfajri255@gmail.com <br />
-Riyana Fatimatus Zahrok - email <br />
-Zajuli Taupiq Bisri - email <br />
+Riyana Fatimatus Zahrok - riyana9zahra@student.ub.ac.id <br />
+Zajuli Taupiq Bisri - zajulitaupiqbisri@gmail.com <br />
 
 In this project, we use weather data from Tanjung Priok Maritime Meteorological Station and river level on Yos Sudarso Pump to build a **Flood Disaster Warning System**.
 
