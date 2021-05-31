@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BCare</string>
+    <string name="learn_font_semi_bold">learnerfonts/Poppins-SemiBold.ttf</string>
+    <string name="requestprediksi">Request Prediksi</string>
+    <attr name="fontPath" format="string" />
+    <item name="calligraphy_tag_id" type="id" />
+
+    <string-array name="pompaair">
+        <item>Pompa Air Sumur Dangkal</item>
+        <item>Pompa Air Sumur Dalam</item>
+        <item>Pompa Celup</item>
+        <item>Pompa Booster</item>
+    </string-array>
+</resources>

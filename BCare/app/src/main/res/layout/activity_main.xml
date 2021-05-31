@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="902dp"
+        android:layout_height="902dp"
+        android:src="@drawable/ui" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button"
+        style="@style/LearnerMaterialButtonStyle.Filled"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="217dp"
+        android:paddingStart="@dimen/learn_spacing_xlarge"
+        android:paddingEnd="@dimen/learn_spacing_xlarge"
+        android:text="@string/requestprediksi" />
+
+    <EditText
+        android:id="@+id/d1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="68dp"
+        android:ems="7"
+        android:hint="Curah Hujan..."
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/d2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/d1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:ems="7"
+        android:hint="Lama Penyinaran Matahari..."
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/d3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/d2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:ems="7"
+        android:hint="Suhu Rata Rata.."
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/d4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/d3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="17dp"
+        android:ems="7"
+        android:hint="Rata Rata Kecepatan Angin.."
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/d5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/d4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:ems="7"
+        android:hint="Rata Rata Kelembapan"
+        android:inputType="numberDecimal" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="158dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="39dp"
+        android:layout_marginEnd="33dp"
+        android:layout_marginBottom="10dp"
+        android:text="Hasil"
+        android:textAlignment="center" />
+
+</RelativeLayout>
