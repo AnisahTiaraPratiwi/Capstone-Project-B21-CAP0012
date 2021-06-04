@@ -1,0 +1,6 @@
+How to Open This App
+1. Install the App
+2. Open the App with the BCare icon
+3. Enter numbers with rainfall etc
+4. press the "Request Prediction" button
+5. Getting Output
